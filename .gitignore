@@ -63,3 +63,6 @@ target/
 # venv
 .env
 venv/
+
+# gym
+monitor/
